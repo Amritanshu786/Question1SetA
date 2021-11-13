@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Question1</string>
+    <string name="microsoft_teams">Microsoft Teams</string>
+    <string name="get_started">Get Started with your work, school or</string>
+    <string name="personal_microsoft_account">personal Microsoft account</string>
+    <string name="enter_email_phone_or_skype">Enter email, phone, or Skype</string>
+    <string name="sign_in">Sign in</string>
+    <string name="get_help_with_signing_in">Get help with signing in</string>
+    <string name="join_a_meeting">Join a meeting</string>
+    <string name="sign_up_for_free">Sign up for free</string>
+</resources>
